@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Siddhesh Sunil Gajare  
 🎓 Electronics & Telecommunication Engineering Student  
 
-![welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![welcome](https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif)
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: [ssgajare12345@gmail.com]   
-- 📍 Location: [Pune, Maharashtra]  
+- 📧 Email: ssgajare12345@gmail.com
+- 📍 Location: Pune, Maharashtra
 
 ---
 
@@ -40,10 +40,6 @@ I’m open to collaborating on:
 - 🔌 Electronics & Embedded Projects  
 - 🧠 C/C++ Coding Projects  
 
-![teamwork](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ---
 
 ⭐ *Thanks for visiting my GitHub profile! Feel free to check out my repositories and drop a star if you like something!*
-
-![thankyou](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
