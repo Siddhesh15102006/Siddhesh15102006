@@ -41,6 +41,8 @@ I’m open to collaborating on:
 - 🔌 Electronics & Embedded Projects  
 - 🧠 C/C++ Coding Projects  
 
----
+![Thanks](https://i.pinimg.com/originals/f7/df/4d/f7df4d74704cb7bb8d7dcbc645a3d4a9.gif)
 
+---
 ⭐ *Thanks for visiting my GitHub profile! Feel free to check out my repositories and drop a star if you like something!*
+
