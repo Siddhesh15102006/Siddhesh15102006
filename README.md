@@ -32,6 +32,7 @@
 - 📧 Email: ssgajare12345@gmail.com
 - 📍 Location: Pune, Maharashtra
 
+![about](https://raw.githubusercontent.com/gist/Drozerah/c21e5763d4d92bc429b995854e27f4ac/raw/478b44e64248a55b96adbaa611863fda884d27b3/about-me.gif)
 ---
 
 ## 🚀 Let's Collaborate!
