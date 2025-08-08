@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Siddhesh Sunil Gajare  
+# 👋 Hi there! I'm Siddhesh Gajare  
 🎓 Electronics & Telecommunication Engineering Student  
 
 ![welcome](https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif)
